@@ -1,0 +1,6 @@
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+PS1='%F{green}🐱[%~]%f%#'
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
